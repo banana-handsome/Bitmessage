@@ -1,0 +1,23 @@
+{
+  "name": "private_broadcast",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "sender.js",
+  "scripts": {
+    "spread": "npx nodemon sender.js"
+  },
+  "author": "kafnfie",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.4.2",
+    "luxon": "^3.5.0",
+    "nodemon": "^3.1.9",
+    "ora": "^8.2.0"
+  }
+}

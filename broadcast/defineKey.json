@@ -1,0 +1,6 @@
+{
+    "port": 4000,
+    "networkKey" : "1420",
+    "messageKey" : "kafffie",
+    "message" : "hello world, this is a private message"
+}

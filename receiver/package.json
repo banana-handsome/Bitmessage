@@ -1,0 +1,16 @@
+{
+  "name": "receiver",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "read" : "node receiver.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "crypto-js": "^4.2.0",
+    "nodemon": "^3.1.9",
+    "ora": "^8.2.0"
+  }
+}
